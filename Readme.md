@@ -1,6 +1,6 @@
 # Robinhood Ticker for Xamarin.Android
 
-This is bindings project for Robinhoods [ticker control](https://github.com/robinhood/ticker), an Android text view with scrolling text change.
+This is bindings project for Robinhood's [ticker control](https://github.com/robinhood/ticker), an Android text view with scrolling text change.
 
 ![](https://github.com/robinhood/ticker/blob/master/assets/ticker_main.gif)
 
