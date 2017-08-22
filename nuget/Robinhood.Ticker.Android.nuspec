@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Robinhood.Android.Ticker</id>
+    <id>Xamarin.Robinhood.Ticker</id>
     <title>Robinhood Ticker for Xamarin Android</title>
-    <version>1.0.0-alpha</version>
+    <version>1.2.0</version>
     <authors>Prashant Cholachagudda</authors>
     <owners>Prashant Cholachagudda</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
