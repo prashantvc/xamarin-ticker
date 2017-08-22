@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Robinhood.Android.Ticker</id>
+    <title>Robinhood Ticker for Xamarin Android</title>
+    <version>1.0.0-alpha</version>
+    <authors>Prashant Cholachagudda</authors>
+    <owners>Prashant Cholachagudda</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C# bindings for official Robinhood Ticker</description>
+    <copyright>Copyright © Prashant Cholachagudda</copyright>
+    <projectUrl>https://github.com/prashantvc/xamarin-ticker</projectUrl>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <iconUrl>https://github.com/prashantvc/xamarin-ticker</iconUrl>
+    <dependencies>
+      <group targetFramework="MonoAndroid70">
+      </group>
+    </dependencies>
+  </metadata>
+  <files>  
+    <file src="../Ticker/bin/Release/Ticker.dll" target="lib/MonoAndroid70" />
+  </files>
+</package>
